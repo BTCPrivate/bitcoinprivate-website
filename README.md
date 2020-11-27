@@ -3,7 +3,7 @@
 [![TWITTER](https://img.shields.io/twitter/follow/btcpnews?style=social)](https://img.shields.io/twitter/follow/btcpnews?style=social)
 
 
-BitcoinPrivate Website is a front-end for the upcoming release of BitcoinPrivate coin. Development on a new chain are in progress and a snapshot happend at 680,000
+BitcoinPrivate Website is a front-end for the upcoming release of BitcoinPrivate coin. Development on a new chain is in progress and a snapshot happend at 680,000 more informations for $BTCP holders can be checked on [discord](https://discord.gg/2Q2rRjpEzr).
 
 * Homepage: [https://btcprivate.org](https://btcprivate.org/)
 * Origin-Source: [https://github.com/BTCPrivate/bitcoinprivate-website](https://github.com/BTCPrivate/bitcoinprivate-website)
