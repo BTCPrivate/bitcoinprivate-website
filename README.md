@@ -16,6 +16,7 @@ The following should be considered:
 
 * HTML5, CSS, JavaScript, Bootstrap 4 only
 * Simple design and structure
+* Static website, no dynamic changing content needed
 * Max. two clicks until information displayed
 * Clone the git repo — `git clone
   https://github.com/rn54n/bitcoinprivate-website.git` - and checkout the
