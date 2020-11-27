@@ -1,0 +1,19 @@
+{
+  "name": "subdomains",
+  "version": "0.0.1",
+  "description": "Status update badge of UX/UI design",
+  "main": "",
+  "scripts": {
+    "test": "lab -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rn54n/bitcoinprivate-website"
+  },
+  "keywords": [
+    "bitcoin-private",
+    "bitcoinprivate"
+  ],
+  "author": "rn54n",
+  "license": "MIT"
+}
