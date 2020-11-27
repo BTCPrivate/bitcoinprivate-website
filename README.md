@@ -1,9 +1,8 @@
 # [BitcoinPrivate Website](https://btcprivate.org/)
 [![LICENSE](https://img.shields.io/github/license/rn54n/bitcoinprivate-website)](bitcoinprivate-website/blob/main/LICENSE.txt)
-[![TWITTER](https://img.shields.io/twitter/follow/btcpnews?style=social)](https://img.shields.io/twitter/follow/btcpnews?style=social)
 [![WEBSITE](https://img.shields.io/website?url=https%3A%2F%2Fbtcprivate.org)](https://img.shields.io/website?url=https%3A%2F%2Fbtcprivate.org)
 [![UIPROTO](https://img.shields.io/badge/dynamic/json?color=blue&label=UI%20prototype%20dev&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Frn54n%2Fbitcoinprivate-website%2Fmain%2F.github%2FBADGES.json)](https://github.com/BTCPrivate/bitcoinprivate-website)
-
+[![TWITTER](https://img.shields.io/twitter/follow/btcpnews?style=social)](https://img.shields.io/twitter/follow/btcpnews?style=social)
 
 BitcoinPrivate Website is a front-end for the upcoming relaunch of BitcoinPrivate coin. Development on a new chain is in progress and a snapshot happend at 680,000 more informations for $BTCP holders can be checked on [discord](https://discord.gg/2Q2rRjpEzr).
 
