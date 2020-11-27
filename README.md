@@ -5,7 +5,7 @@
 [![UIPROTO](https://img.shields.io/badge/dynamic/json?color=blue&label=UI%20prototype%20dev&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Frn54n%2Fbitcoinprivate-website%2Fmain%2F.github%2FBADGES.json)](https://github.com/rn54n/bitcoinprivate-website)
 
 
-BitcoinPrivate Website is a front-end for the upcoming release of BitcoinPrivate coin. Development on a new chain is in progress and a snapshot happend at 680,000 more informations for $BTCP holders can be checked on [discord](https://discord.gg/2Q2rRjpEzr).
+BitcoinPrivate Website is a front-end for the upcoming relaunch of BitcoinPrivate coin. Development on a new chain is in progress and a snapshot happend at 680,000 more informations for $BTCP holders can be checked on [discord](https://discord.gg/2Q2rRjpEzr).
 
 * Homepage: [https://btcprivate.org](https://btcprivate.org/)
 * Origin-Source: [https://github.com/BTCPrivate/bitcoinprivate-website](https://github.com/BTCPrivate/bitcoinprivate-website)
