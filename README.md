@@ -1,8 +1,8 @@
 # [BitcoinPrivate Website](https://btcprivate.org/)
-[![LICENSE](https://img.shields.io/github/license/rn54n/bitcoinprivate-website)](https://github.com/rn54n/bitcoinprivate-website/blob/main/LICENSE.txt)
+[![LICENSE](https://img.shields.io/github/license/rn54n/bitcoinprivate-website)](bitcoinprivate-website/blob/main/LICENSE.txt)
 [![TWITTER](https://img.shields.io/twitter/follow/btcpnews?style=social)](https://img.shields.io/twitter/follow/btcpnews?style=social)
 [![WEBSITE](https://img.shields.io/website?url=https%3A%2F%2Fbtcprivate.org)](https://img.shields.io/website?url=https%3A%2F%2Fbtcprivate.org)
-[![UIPROTO](https://img.shields.io/badge/dynamic/json?color=blue&label=UI%20prototype%20dev&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Frn54n%2Fbitcoinprivate-website%2Fmain%2F.github%2FBADGES.json)](https://github.com/rn54n/bitcoinprivate-website)
+[![UIPROTO](https://img.shields.io/badge/dynamic/json?color=blue&label=UI%20prototype%20dev&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Frn54n%2Fbitcoinprivate-website%2Fmain%2F.github%2FBADGES.json)](https://github.com/BTCPrivate/bitcoinprivate-website)
 
 
 BitcoinPrivate Website is a front-end for the upcoming relaunch of BitcoinPrivate coin. Development on a new chain is in progress and a snapshot happend at 680,000 more informations for $BTCP holders can be checked on [discord](https://discord.gg/2Q2rRjpEzr).
@@ -21,7 +21,7 @@ The following should be considered:
 * Static website, no dynamic changing content needed
 * Max. two clicks until information displayed
 * Clone the git repo — `git clone
-  https://github.com/rn54n/bitcoinprivate-website.git` - and checkout the
+  https://github.com/BTCPrivate/bitcoinprivate-website.git` - and checkout the
   [tagged release](https://github.com/rn54n/bitcoinprivate-website/releases)
   you'd like to use. The `dist` folder represents the latest version of the
   project for end users.
@@ -38,7 +38,7 @@ The following should be considered:
 *This doesn't mean that BitcoinPrivate Website cannot be used in older browsers,
 we'll ensure compatibility with the ones mentioned above.*
 
-If you need legacy browser support for IE8/IE9/IE10 not supported.
+Legacy browser will not be supported. IE8/IE9/IE10
 
 ## UI / UX design
 
