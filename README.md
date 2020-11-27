@@ -40,6 +40,13 @@ we'll ensure compatibility with the ones mentioned above.*
 
 If you need legacy browser support for IE8/IE9/IE10 not supported.
 
+## UI / UX design
+
+A UI/UX design is in progress, after the validation of the UI/UX design we can start coding. An example how it can look like is below:
+
+![UI/UX Prototype](.github/btcp_prototype_v1.jpg?raw=true "BTCP UI/UX design prototype")
+![UI/UX Prototype](.github/btcp_mockup_2__720x531.jpg?raw=true "BTCP UI/UX mockup 2")
+
 ## Documentation
 
 Right now there is no need for a documentation of the website itself.
